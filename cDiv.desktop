@@ -3,6 +3,6 @@ Type=Service
 ServiceTypes=Krita/PythonPlugin
 X-KDE-Library=cDiv
 X-Python-2-Compatible=false
-X-Krita-Manual=../README.html
+X-Krita-Manual=README.html
 Name=cDiv
 Comment=Evenly divide the canvas
